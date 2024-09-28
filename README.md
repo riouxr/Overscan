@@ -13,6 +13,6 @@ Specific X resolution will set the X resoution to the input and adapt the y reso
 
 Note that for every change that you make you need to press the reset button first.
 
-This will for for both any rendering engine.
+This will work for any rendering engine.
 
 You can see a video description at https://www.youtube.com/watch?v=yXSfgBu5Rac
