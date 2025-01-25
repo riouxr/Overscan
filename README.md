@@ -15,4 +15,11 @@ Note that for every change that you make you need to press the reset button firs
 
 This will work for any rendering engine.
 
+The name of the camera will change, adding _o to indicate that it has been set to overscan. If you reset the overscan, the name will revert.
+
 You can see a video description at https://www.youtube.com/watch?v=yXSfgBu5Rac
+
+Also watch this video for the latest functions:
+
+https://youtu.be/yXSfgBu5Rac
+
